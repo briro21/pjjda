@@ -1274,7 +1274,7 @@ if not uploaded:
       <div style="font-family:Syne;font-size:2.5rem;font-weight:800;
           background:linear-gradient(135deg,#5b8dee,#3ecfac);
           -webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:.4rem">
-          📊 PJJ Analisis Masukan Vertikal
+          📊 Insight Map
       </div>
       <p style="color:#8b95b0;font-size:1rem">
           NMF Topic Modeling · Grid Search TF-IDF · Analisis Regional · Peta Indonesia
