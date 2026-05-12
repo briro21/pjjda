@@ -1129,7 +1129,7 @@ with st.sidebar:
       <span style="font-family:Syne;font-size:1.2rem;font-weight:800;
           background:linear-gradient(135deg,#5b8dee,#3ecfac);
           -webkit-background-clip:text;-webkit-text-fill-color:transparent">
-          📊 PJJ Analitik
+          📊 Insight Map
       </span>
       <div style="font-size:.65rem;color:#434b66;margin-top:.15rem">
           Analisis Masukan Vertikal · NMF + Grid Search
